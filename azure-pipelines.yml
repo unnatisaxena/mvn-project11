@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: DevOps1
+pool: Unn
   
 
 steps:
