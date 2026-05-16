@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Unn1
+pool: Exp10
   
 
 steps:
