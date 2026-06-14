@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: practice1011
+pool: Maven-proj
   
 
 steps:
