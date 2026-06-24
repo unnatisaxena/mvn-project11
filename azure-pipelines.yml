@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: pgm1011
+pool: proj10
   
 
 steps:
